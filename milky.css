@@ -1,0 +1,80 @@
+html{
+    height: 100%;
+}
+
+body{
+    background-color: #2F3035;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.kaleb {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1024px;
+}
+
+header {
+    background-attachment: fixed;
+    height: 118px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+   padding-top: 15px;
+}
+
+nav {
+    background-attachment: fixed;
+    background-color: rgb(42, 41, 41);
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    padding-top: 14px;
+    padding-bottom: 14px;
+}
+
+main {
+    background-attachment: fixed;
+    height: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    padding-top: 0.00002px;
+    margin-top: 80px;
+    padding-left: 100px;
+    padding-right: 100px;
+    
+}
+
+footer {
+    background-attachment: fixed;
+    background-color: coral;
+    margin-left: auto;
+    margin-right: auto;
+    height: 80px;
+}
+
+h1{
+    font-size: 84px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(218, 255, 108);
+}
+
+p{
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: aliceblue;
+}
+
+a{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(55, 201, 238);
+}
+nav a{
+    text-align: center;
+    text-decoration: none;
+    font-size: 14px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
